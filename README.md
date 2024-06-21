@@ -98,6 +98,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/rabiulrahat/rabiulrahat/output/snake.svg" alt="Snake animation" />
 
 ###
