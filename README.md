@@ -27,17 +27,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Rabiul Rahat from Bangladesh.<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I watch anime</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
